@@ -3,7 +3,7 @@ public class Main {
     public static class LambdaManager {
 
         public static void main(String[] args) {
-
+            System.out.println("Software design, laboratory work 1.1");
             Operationable operation;
             operation = (x,y)->x+y;
 
